@@ -1,0 +1,76 @@
+{
+  "userauth": [
+    {
+      "name": "Sobhan name",
+      "username": "admin1",
+      "password": "admin1234",
+      "email": "sobhan@yahoo.com",
+      "phone": "9893548125",
+      "companiesId": "1",
+      "id": 1
+    },
+    {
+      "name": "Nastaran name",
+      "username": "admin2",
+      "password": "admin1234",
+      "email": "nasi@gmail.com",
+      "phone": "9893878452",
+      "companiesId": "2",
+      "id": 2
+    }
+  ],
+  "suplier": [
+    {
+      "nameSuplier": "Sabyan Num",
+      "alamat": "Jalan Maraban No 32 Blok E14-17",
+      "email": "snum@yahoo.com",
+      "phone": "08123466666",
+      "companiesName": "CV Jaya Sejahtera",
+      "id": 1
+    },
+    {
+      "nameSuplier": "Baji Brahan",
+      "alamat": "Jalan Tendor No 14 Blok E13-18",
+      "email": "BBaji@yahoo.com",
+      "phone": "081234678555",
+      "companiesName": "PT Jaya Cemerlang",
+      "id": 2
+    }
+  ],
+  "order": [
+    {
+      "nameBarang": "Daia",
+      "jnsBarang": "Kebutuhan Sehari - hari",
+      "nameSuplier": "Baji Brahan",
+      "jumlahBarang": "100",
+      "hrgPerpcs": "21.000",
+      "jmlBayar": "2.100.000",
+      "id": 1
+    },
+    {
+      "nameBarang": "Dove",
+      "jnsBarang": "Kebutuhan Sehari - hari",
+      "nameSuplier": "Sabyan Num",
+      "jumlahBarang": "100",
+      "hrgPerpcs": "2100",
+      "jmlBayar": "210.000",
+      "id": 2
+    }
+  ],
+  "customer": [
+    {
+      "nameCustomer": "Harini",
+      "alamat": "Jalan Pancor No 14 Blok E13-18",
+      "email": "harini@yahoo.com",
+      "phone": "081234678555",
+      "id": 1
+    },
+    {
+      "nameCustomer": "Tejo Hadi",
+      "alamat": "Jalan Babakan No 14 Blok E13-18",
+      "email": "tejo@yahoo.com",
+      "phone": "081234678555",
+      "id": 2
+    }
+  ]
+}
